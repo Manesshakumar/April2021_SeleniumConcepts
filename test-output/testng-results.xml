@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-30T08:13:34Z" name="Default suite" finished-at="2021-03-30T08:14:24Z" duration-ms="49796">
+    <groups>
+    </groups>
+    <test started-at="2021-03-30T08:13:34Z" name="Default test" finished-at="2021-03-30T08:14:24Z" duration-ms="49796">
+      <class name="BasicConcepts_TestNG.Inheritance_Application">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:BasicConcepts_TestNG.Inheritance_Application@78047b92]" started-at="2021-03-30T08:13:34Z" name="setUp" finished-at="2021-03-30T08:13:41Z" duration-ms="6769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="launchUrl()[pri:0, instance:BasicConcepts_TestNG.Inheritance_Application@78047b92]" started-at="2021-03-30T08:13:41Z" name="launchUrl" finished-at="2021-03-30T08:14:20Z" duration-ms="39331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchUrl -->
+        <test-method signature="titleCheck()[pri:1, instance:BasicConcepts_TestNG.Inheritance_Application@78047b92]" started-at="2021-03-30T08:14:20Z" name="titleCheck" finished-at="2021-03-30T08:14:20Z" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheck -->
+        <test-method signature="logoDisplayCheck()[pri:2, instance:BasicConcepts_TestNG.Inheritance_Application@78047b92]" started-at="2021-03-30T08:14:20Z" name="logoDisplayCheck" finished-at="2021-03-30T08:14:21Z" duration-ms="407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoDisplayCheck -->
+        <test-method signature="searchEntryCheck()[pri:3, instance:BasicConcepts_TestNG.Inheritance_Application@78047b92]" started-at="2021-03-30T08:14:21Z" name="searchEntryCheck" finished-at="2021-03-30T08:14:22Z" duration-ms="1742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchEntryCheck -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:BasicConcepts_TestNG.Inheritance_Application@78047b92]" started-at="2021-03-30T08:14:22Z" name="tearDown" finished-at="2021-03-30T08:14:24Z" duration-ms="1209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- BasicConcepts_TestNG.Inheritance_Application -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
